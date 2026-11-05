@@ -1,8 +1,29 @@
 {
-  "client.cpp": "6a6b6d0ebc6675cf5833f7829fa1042f86e69413a29f72c61d365cbe267b6a01",
-  "InventoryManager.cpp": "8dcd369185f5fcb011d1269f4db8a158f63d7359e2d6b0c23d30f748f447652c",
-  "InventoryManager.h": "c5cd2b9ababf5866443aa98ab6effb63dfcf2c13b28def1490ce3c1efd645118",
-  "Item.h": "d8fdd056e8bea961691fca1609eb044de29fe05a334f7f0bebd2e0d9eb421447",
-  "Item.cpp": "36513ed9e04c0a4617fe5f52b65016577df25796ba7d4c1d30a602637a4240df",
-  "server.cpp": "13d011d0b408a294a3895e1aee6e5c78cd9a759814abce8a1e7eeb995bc33117"
+  "note": "Published sources differ only in final-newline normalization where hashes differ. No code logic changed.",
+  "files": {
+    "client.cpp": {
+      "original_sha256": "6a6b6d0ebc6675cf5833f7829fa1042f86e69413a29f72c61d365cbe267b6a01",
+      "published_sha256": "df6ce7f53f2d1fa13b7685635675b4f347e2e0ab70898c10184cd4ad1d67a452"
+    },
+    "InventoryManager.cpp": {
+      "original_sha256": "8dcd369185f5fcb011d1269f4db8a158f63d7359e2d6b0c23d30f748f447652c",
+      "published_sha256": "df4782ae06f31356317972b447592d4e4b9e2c31bc30dcc27e6e2fa2039b8c31"
+    },
+    "InventoryManager.h": {
+      "original_sha256": "c5cd2b9ababf5866443aa98ab6effb63dfcf2c13b28def1490ce3c1efd645118",
+      "published_sha256": "8d7f1017d167f33bd37cb5e0e50e6531c74de903fe10630dd73143cfb9a12762"
+    },
+    "Item.h": {
+      "original_sha256": "d8fdd056e8bea961691fca1609eb044de29fe05a334f7f0bebd2e0d9eb421447",
+      "published_sha256": "d8fdd056e8bea961691fca1609eb044de29fe05a334f7f0bebd2e0d9eb421447"
+    },
+    "Item.cpp": {
+      "original_sha256": "36513ed9e04c0a4617fe5f52b65016577df25796ba7d4c1d30a602637a4240df",
+      "published_sha256": "36513ed9e04c0a4617fe5f52b65016577df25796ba7d4c1d30a602637a4240df"
+    },
+    "server.cpp": {
+      "original_sha256": "13d011d0b408a294a3895e1aee6e5c78cd9a759814abce8a1e7eeb995bc33117",
+      "published_sha256": "ec3c1bf07f7bc50fb770c8e8f27ae38bf0442f5c07b52461a2976fca03537f8c"
+    }
+  }
 }
