@@ -109,6 +109,6 @@ These are future engineering tasks, not fixes included in this package. See `doc
 
 ## Source and preparation
 
-The six C++ source/header files in `src/` are byte-for-byte copies of the supplied coursework implementation. No implementation changes were made. `docs/source-manifest.json` records their SHA-256 hashes. This preparation adds the build file, documentation, ignore rules and a smoke-check script/results. The original student submission file and its personal identifiers are excluded.
+The six C++ source/header files in `src/` preserve the supplied coursework implementation. GitHub publication normalized final newlines in four files; no code logic was changed. `docs/source-manifest.json` records the original and published SHA-256 hashes. This preparation adds the build file, documentation, ignore rules and a smoke-check script/results. The original student submission file and its personal identifiers are excluded.
 
 No open-source license has been chosen. No grant of reuse rights should be inferred.
