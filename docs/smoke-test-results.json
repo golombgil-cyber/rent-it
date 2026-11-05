@@ -1,0 +1,73 @@
+{
+  "checks": [
+    {
+      "check": "command before HELLO",
+      "result": "PASS"
+    },
+    {
+      "check": "invalid username",
+      "result": "PASS"
+    },
+    {
+      "check": "session A identity",
+      "result": "PASS"
+    },
+    {
+      "check": "session B identity",
+      "result": "PASS"
+    },
+    {
+      "check": "list header",
+      "result": "PASS"
+    },
+    {
+      "check": "initial inventory entries",
+      "result": "PASS"
+    },
+    {
+      "check": "borrow",
+      "result": "PASS"
+    },
+    {
+      "check": "competing borrow",
+      "result": "PASS"
+    },
+    {
+      "check": "wrong-owner return",
+      "result": "PASS"
+    },
+    {
+      "check": "wait on own loan",
+      "result": "PASS"
+    },
+    {
+      "check": "owner return",
+      "result": "PASS"
+    },
+    {
+      "check": "wait notification",
+      "result": "PASS"
+    },
+    {
+      "check": "unknown item",
+      "result": "PASS"
+    },
+    {
+      "check": "invalid ID",
+      "result": "PASS"
+    },
+    {
+      "check": "unknown command",
+      "result": "PASS"
+    },
+    {
+      "check": "quit A",
+      "result": "PASS"
+    },
+    {
+      "check": "quit B",
+      "result": "PASS"
+    }
+  ],
+  "scope": "Server protocol only; two local sockets, one run. Not a security audit or stress test."
+}
