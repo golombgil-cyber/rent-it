@@ -1,0 +1,8 @@
+{
+  "client.cpp": "6a6b6d0ebc6675cf5833f7829fa1042f86e69413a29f72c61d365cbe267b6a01",
+  "InventoryManager.cpp": "8dcd369185f5fcb011d1269f4db8a158f63d7359e2d6b0c23d30f748f447652c",
+  "InventoryManager.h": "c5cd2b9ababf5866443aa98ab6effb63dfcf2c13b28def1490ce3c1efd645118",
+  "Item.h": "d8fdd056e8bea961691fca1609eb044de29fe05a334f7f0bebd2e0d9eb421447",
+  "Item.cpp": "36513ed9e04c0a4617fe5f52b65016577df25796ba7d4c1d30a602637a4240df",
+  "server.cpp": "13d011d0b408a294a3895e1aee6e5c78cd9a759814abce8a1e7eeb995bc33117"
+}
